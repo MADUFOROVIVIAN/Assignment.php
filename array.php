@@ -23,9 +23,9 @@
 // echo $Niit["Skills"][3]. "<br>";
 // echo $Niit["Skills"][4]. "<br>";
 // echo print_r($Niit);
-?>
 
-<?php
+
+
 // (03-08-2024)
 
 $skills = array("HTML", "CSS", "JAVASCRIPT", "PHP", "MYSQLI", "LARAVEL");
