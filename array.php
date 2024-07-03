@@ -29,10 +29,10 @@
 // (03-08-2024)
 
 $skills = array("HTML", "CSS", "JAVASCRIPT", "PHP", "MYSQLI", "LARAVEL");
-if ($skills =   array("HTML", "CSS", "JAVASCRIPT")) 
+if ($skills = array("HTML", "CSS", "JAVASCRIPT")) 
 {
     echo "you are a Frontend Developer";
-} elseif ($skills ==   array("PHP", "MYSQLI", "LARAVEL")){
+} elseif ($skills = array("PHP", "MYSQLI", "LARAVEL")){
 echo "you are a Backend Developer";
 } else {
     echo "You are a Computer Literate";
